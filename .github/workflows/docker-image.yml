@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: gmedeirosnet work with Docker Image in Continuous Integration
 
 on:
   push:
